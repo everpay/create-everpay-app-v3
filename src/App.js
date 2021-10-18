@@ -1,8 +1,6 @@
-import React, { Component } from "react"
+import React, { Component } from "react";
+import { BrowserRouter as Router, Switch } from "
 import "./App.css"
-import "./Main.css"
-
-
 
 class LambdaDemo extends Component {
   constructor(props) {
